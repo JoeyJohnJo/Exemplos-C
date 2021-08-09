@@ -20,7 +20,7 @@
  * Custo com desconto: R$ x.xx
  * */
 
-void main() {
+int main() {
 
     double salarioMinimo,
            kwGastosPorResidencia,
