@@ -25,9 +25,9 @@
 int main() {
 
     double tempF,
-    tempC,
-    chuvaPol,
-    chuvaMm;
+           tempC,
+           chuvaPol,
+           chuvaMm;
 
     scanf("%lf%lf", &tempF, &chuvaPol);
 
