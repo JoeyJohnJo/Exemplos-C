@@ -25,7 +25,11 @@
 
 int main() {
 
-    int valorEmReais, qtd100, qtd50, qtd10, qtd1;
+    int valorEmReais,
+    qtd100 = 0,
+    qtd50 = 0,
+    qtd10 = 0,
+    qtd1 = 0;
 
     scanf("%i", &valorEmReais);
 
