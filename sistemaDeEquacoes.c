@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<math.h>
 
-/*
+/**
  * Dado um sistema de equações lineares do tipo:
  * ax + by = c
  * dx + ey = f

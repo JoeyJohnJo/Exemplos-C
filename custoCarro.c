@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * O custo ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor
  * e dos impostos (aplicados ao custo de fábrica). Supondo que a porcentagem do distribuidor seja de x% do
  * preço de fábrica e os impostos de y% do preço de fábrica, fazer um programa para ler o custo de fábrica

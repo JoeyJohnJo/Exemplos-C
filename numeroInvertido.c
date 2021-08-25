@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<math.h>
 
-/*
+/**
  * Escreva um programa para ler um número de três dígitos e imprimir o número invertido
  * ----------------------------------------- ENTRADA -------------------------------------------------------------------
  * A entrada contém apenas um número com três dígitos.

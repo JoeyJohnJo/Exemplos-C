@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<math.h>
 
-/*
+/**
  * Desenvolver um algoritmo para ler os comprimentos dos tres lados de um triangulo (L1, L2 e L3) e
  * calcular a area do triangulo.
  * A area de um triangulo pode ser computada pela formula: A = √(T * (T −L1) * (T −L2) * (T −L3))

@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * Fazer um programa que leia um valor de tempo expresso em horas, minutos e segundos e que converta
  * esse tempo para um valor em segundos.
  * ----------------------------------------- ENTRADA -------------------------------------------------------------------

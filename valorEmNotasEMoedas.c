@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<math.h>
 
-/*
+/**
  * Escreva um algoritmo par ler um valor em reais e calcular qual o menor número possível de notas de R$ 100,
  * R$ 50, R$ 10 e moedas de R$ 1 em que o valor lido pode ser decomposto.
  * O programa deve escrever a quantidade de cada nota e moeda a ser utilizada.

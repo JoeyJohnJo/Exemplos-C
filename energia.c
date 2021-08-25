@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * Sabendo-se que 100 kW de energia custam 70% do salário mínimo, escreva um algoritmo em Linguagem C
  * que leia o valor do salário mínimo e a quantidade de kW gasta por uma residência. Calcule e imprima:
  * • o valor em reais de cada kW;

@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * Um fabricante de latas deseja desenvolver um programa para calcular o custo de uma lata cilíndrica de alumínio,
  * sabendo-se que o custo do alumínio por m2 é R$ 100,00.
  * ----------------------------------------- ENTRADA -------------------------------------------------------------------

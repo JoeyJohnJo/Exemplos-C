@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<math.h>
 
-/*
+/**
  * Fazer um algoritmo que calcule a média aritmética das três notas de um aluno e mostre,
  * além do valor da média, uma mensagem de "APROVADO", caso a média seja igual ou superior a seis, ou a mensagem
  * "REPROVADO", caso contrário.

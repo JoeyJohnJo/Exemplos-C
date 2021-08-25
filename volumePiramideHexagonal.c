@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<math.h>
 
-/*
+/**
  * O volume (V) de uma pirâmide cuja base é um hexágono regular é computado pela Equação: v = 1/3 ·Ab · h,
  * onde h é a altura da pirâmide e Ab é a área do hexágono que forma a base da pirâmide.
  * A área do hexágono é computada pela Equação: Ab = (3 · a² · √3) / 2,

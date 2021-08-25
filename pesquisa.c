@@ -2,7 +2,7 @@
 // Created by joeyjohnjo on 06/08/2021.
 //
 
-/*
+/**
  * Uma certa firma fez uma pesquisa de mercado para saber se as pessoas gostaram ou não de um novo
  * produto lançado no mercado. Para isso, forneceu o sexo do entrevistado e sua resposta ( sim ou não).
  * O programa deve determinar a quantidade de pessoas que disseram sim, a quantidade de pessoas que disseram

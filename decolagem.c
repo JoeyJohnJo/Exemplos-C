@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * Escrever um algoritmo que leia a massa (em toneladas) de um avião, sua aceleração (m/s²) e o tempo (s)
  * que levou do repouso até a decolagem. O programa deve calcular e escrever a velocidade atingida (Km/h),
  * o comprimento da pista (m) e o trabalho mecânico realizado (J) no momento da decolagem.

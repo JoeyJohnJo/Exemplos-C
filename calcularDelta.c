@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * Fazer um programa para ler os valores dos coeficientes A,B e C de uma equação quadrática e calcular e
  * imprimir o valor do discriminante (∆). O valor de ∆ é dado pela fórmula: ∆ = B²−4AC.
  * ----------------------------------------- ENTRADA -------------------------------------------------------------------

@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<math.h>
 
-/*
+/**
  * Dado um número inteiro de três algarismos, construir outro número inteiro de quatro algarismos de
  * acordo com a seguinte regra:
  * os três primeiros algarismos, contados da esquerda para a direita são iguais ao número dado.

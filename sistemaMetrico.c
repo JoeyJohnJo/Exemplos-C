@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * Muitos países estão passando a utilizar o sistema métrico.
  *  Faça um programa para executar as seguintes conversões:
  * • Ler uma temperatura em Fahrenheit e imprimir o equivalente em Celsius (C = 5(F−32) / 9).
