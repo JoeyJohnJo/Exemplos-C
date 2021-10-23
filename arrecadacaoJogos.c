@@ -42,7 +42,8 @@ int main() {
     scanf("%i", &numeroCasos);
     double rendaDosJogos[numeroCasos];
 
-    for (int i = 0; i < numeroCasos; i++) {
+    int i = 0;
+    while ( i < numeroCasos) {
 
         int ingressosVendidos;
         double pctPopular, pctGeral, pctArquibancada, pctCadeiras;
@@ -54,9 +55,12 @@ int main() {
                 ( (( (double) ingressosVendidos) / 100 * pctArquibancada) * valorIngressoArquibancada) + // renda por ingressos de arquibancada
                 ( (( (double) ingressosVendidos) / 100 * pctCadeiras) * valorIngressoCadeiras); // renda por ingressos de arquibancada
 
+        i++;
     }
 
-    for (int i = 0; i < numeroCasos; i++) {
-        printf("A RENDA DO JOGO N. %i E = %.2lf\n", i+1, rendaDosJogos[i]);
+    int j = 0;
+    while (j < numeroCasos) {
+        printf("A RENDA DO JOGO N. %i E = %.2lf\n", j+1, rendaDosJogos[j]);
+        j++;
     }
 }

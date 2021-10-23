@@ -3,7 +3,6 @@
 //
 
 #include <stdio.h>
-#include <math.h>
 
 /**
  * Faça um programa que leia um número inteiro maior que 1 e
